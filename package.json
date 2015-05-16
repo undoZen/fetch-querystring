@@ -1,6 +1,6 @@
 {
   "name": "fetch-querystring",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "like fetch-stringify but for url querystring",
   "main": "index.js",
   "files": [
